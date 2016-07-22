@@ -1,3 +1,3 @@
-# OpenHCM standard [web page ][webpage]
+# OpenHCM standard [web page][webpage]
 
-[OpenHCM]:<http://openhcmstandard.github.com>
+[webpage]:<http://openhcmstandard.github.com>
